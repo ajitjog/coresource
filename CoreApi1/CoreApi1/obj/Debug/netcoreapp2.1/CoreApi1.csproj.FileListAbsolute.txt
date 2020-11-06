@@ -1,0 +1,14 @@
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\obj\Debug\netcoreapp2.1\CoreApi1.csprojAssemblyReference.cache
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\obj\Debug\netcoreapp2.1\CoreApi1.csproj.CoreCompileInputs.cache
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\obj\Debug\netcoreapp2.1\CoreApi1.RazorAssemblyInfo.cache
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\bin\Debug\netcoreapp2.1\CoreApi1.deps.json
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\bin\Debug\netcoreapp2.1\CoreApi1.runtimeconfig.json
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\bin\Debug\netcoreapp2.1\CoreApi1.runtimeconfig.dev.json
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\bin\Debug\netcoreapp2.1\CoreApi1.dll
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\bin\Debug\netcoreapp2.1\CoreApi1.pdb
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\obj\Debug\netcoreapp2.1\CoreApi1.RazorAssemblyInfo.cs
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\obj\Debug\netcoreapp2.1\CoreApi1.AssemblyInfoInputs.cache
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\obj\Debug\netcoreapp2.1\CoreApi1.AssemblyInfo.cs
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\obj\Debug\netcoreapp2.1\CoreApi1.RazorTargetAssemblyInfo.cache
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\obj\Debug\netcoreapp2.1\CoreApi1.dll
+D:\Ajit\kubernetes on prem\Core\CoreApi1\CoreApi1\obj\Debug\netcoreapp2.1\CoreApi1.pdb
