@@ -1,0 +1,67 @@
+d:\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.deps.json
+d:\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.runtimeconfig.json
+d:\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.runtimeconfig.dev.json
+d:\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.dll
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.csprojAssemblyReference.cache
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.csproj.CoreCompileInputs.cache
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.RazorAssemblyInfo.cache
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.RazorAssemblyInfo.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.AssemblyInfoInputs.cache
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.AssemblyInfo.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.TagHelpers.input.cache
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.TagHelpers.output.cache
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.RazorCoreGenerate.cache
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.RazorTargetAssemblyInfo.cache
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.RazorTargetAssemblyInfo.cs
+d:\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.pdb
+d:\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.Views.dll
+d:\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.Views.pdb
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.Views.pdb
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.dll
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.pdb
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.csproj.CopyComplete
+d:\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\CitiesView\Index.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.deps.json
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.runtimeconfig.json
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.runtimeconfig.dev.json
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.dll
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.pdb
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.Views.dll
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\bin\Debug\netcoreapp2.1\CoreMvc1.Views.pdb
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.csprojAssemblyReference.cache
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.csproj.CoreCompileInputs.cache
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.RazorAssemblyInfo.cache
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.RazorAssemblyInfo.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.AssemblyInfoInputs.cache
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.AssemblyInfo.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.TagHelpers.input.cache
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.TagHelpers.output.cache
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.RazorCoreGenerate.cache
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\CitiesView\Index.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.RazorTargetAssemblyInfo.cache
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.RazorTargetAssemblyInfo.cs
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.Views.pdb
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.dll
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.pdb
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\CoreMvc1.csproj.CopyComplete
+D:\Ajit\kubernetes on prem\CoreMvc1\CoreMvc1\obj\Debug\netcoreapp2.1\Razor\Views\CitiesView\Index2.g.cshtml.cs

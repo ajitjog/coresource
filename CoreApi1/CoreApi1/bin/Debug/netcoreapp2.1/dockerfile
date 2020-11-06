@@ -1,0 +1,8 @@
+ # Sample contents of Dockerfile
+ # Stage 1
+ FROM microsoft/dotnet:2.1-sdk AS builder
+ WORKDIR /app
+
+ # copies the rest of your code
+ COPY . .
+ CMD ["dotnet", "CoreApi1.dll"]
